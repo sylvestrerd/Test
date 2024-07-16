@@ -10,7 +10,7 @@ Plugin pour se synchroniser avec le plugin Squeezebox Control de Jeedom
 </desc>
 <creator>Sarakha63</creator>
 <email/>
-<url>https://github.com/sylvestrerd/Test/blob/main/JeedomSBcontrol.zip</url>
+<url>https://github.com/sylvestrerd/Test/raw/main/JeedomSBcontrol.zip</url>
 </plugin>
 </plugins>
 </extensions>

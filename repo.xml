@@ -11,8 +11,6 @@ Plugin pour se synchroniser avec le plugin Squeezebox Control de Jeedom
 <creator>Sarakha63</creator>
 <email/>
 <url>https://github.com/6f1d142c-496d-47d3-b3d8-9b9f9a68032e</url>
-<sha>e4a5bda9f2b04c3840b33d2766899a5943bb6689</sha>
-<link>http://sarakha63-domotique.fr</link>
 </plugin>
 </plugins>
 </extensions>
